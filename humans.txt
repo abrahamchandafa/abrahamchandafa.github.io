@@ -1,0 +1,13 @@
+/* TEAM */
+Developer: Abraham Chandafa
+Role: Software Engineer
+Site: https://abrahamchandafa.github.io
+LinkedIn: https://www.linkedin.com/in/abrahamchandafa
+GitHub: @abrahamchandafa
+
+/* THANKS */
+Thanks to all contributors and open source projects that made this possible.
+
+
+/* UPDATED */
+Last update: 2026-06-25
